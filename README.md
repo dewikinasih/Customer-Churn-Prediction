@@ -6,6 +6,6 @@ In machine learning, Logistic Regression is one of the classification method. Th
 
 You can see the result through the code and article below
 
-[Here is the code]()
+[Here is the code](https://github.com/dewikinasih/Customer-Churn-Prediction/blob/f5bbe2a88353312a849fc58617bfbaf47a550280/Customers_Churn_Prediction.ipynb)
 
 Publication : [Medium](https://dewikinasih.medium.com/customer-churn-prediction-using-python-8bd275d5d6c9)
